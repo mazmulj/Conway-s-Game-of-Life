@@ -9,5 +9,5 @@ The user must provide these 3 things as arguments when executing the program fro
   initialize the cells with a Gosper glider gun (enter G)
 
 To run the program:
-Compilation:  javac *.java
-Execution:    java Life n m R(or)G
+1) Compilation:  javac *.java
+2) Execution:    java Life n m R(or)G
